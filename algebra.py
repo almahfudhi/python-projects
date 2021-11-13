@@ -4,7 +4,6 @@
 # In[ ]:
 
 
-#task 4
 
 import numpy as numpy
 import matplotlib.pyplot as plt
