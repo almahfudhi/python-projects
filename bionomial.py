@@ -4,9 +4,6 @@
 # In[ ]:
 
 
-#task 5
-
-# al julanda al mahfudhi
 
 
 import random
