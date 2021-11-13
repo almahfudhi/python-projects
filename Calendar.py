@@ -4,12 +4,7 @@
 # In[1]:
 
 
-# task 1
 
-
-
-# name : Al Julanda Al Mahfudhi
-#student ID: 2040602
 
 print("This program  determines if an entered year is a leap year or not")
 
@@ -38,10 +33,7 @@ else:
 # In[2]:
 
 
-# task 2
 
-# name : Al Julanda Al Mahfudhi
-#student ID: 2040602
 import sys
 import os
 from subprocess import *
@@ -121,10 +113,6 @@ if(temp==0):
 # In[3]:
 
 
-# task 3
-
-# name : Al Julanda Al Mahfudhi
-#student ID: 2040602
 
 # full year
 
